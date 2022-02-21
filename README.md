@@ -28,6 +28,7 @@ more objective and reliable in capturing real human emotions.
 
 The first part of our project aims at classifying the emotions based on the eeg signals using the preprocessed data and apply Deep Learning algorithms. The second part is to
 suggest a book based on the mood detected by the algorithm.
+
 ![electroencephalogram_eeg](https://user-images.githubusercontent.com/83583106/154898830-7e66f755-e254-4504-ba22-3ba07032a90f.jpg)
 # DATASET
 We used the SEED-V dataset for our project which can be found on: `https://bcmi.sjtu.edu.cn/home/seed/seed-v.html`.The dataset contained preprocessed and raw files as well. For our
